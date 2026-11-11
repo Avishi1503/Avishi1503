@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Avishi — bioengineering, biology and a little curiosity" width="100%" />
+  <img src="assets/header.svg" alt="Hi, I'm Avishi" width="100%" />
 </p>
 
 I'm a **bioengineer studying computational and structural biology**. I like exploring biological questions through code and data.
