@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Avishi</title>
+  <desc id="desc">A soft pink floral banner for a bioengineering profile.</desc>
+  <rect width="1000" height="210" rx="16" fill="#fff4f7"/>
+  <rect x="12" y="12" width="976" height="186" rx="10" fill="none" stroke="#efd5df"/>
+  <g fill="#edb8ca" opacity=".8" transform="translate(104 100)">
+    <ellipse cy="-22" rx="13" ry="23"/>
+    <ellipse cy="-22" rx="13" ry="23" transform="rotate(72)"/>
+    <ellipse cy="-22" rx="13" ry="23" transform="rotate(144)"/>
+    <ellipse cy="-22" rx="13" ry="23" transform="rotate(216)"/>
+    <ellipse cy="-22" rx="13" ry="23" transform="rotate(288)"/>
+    <circle r="10" fill="#fff6df"/>
+  </g>
+  <g fill="none" stroke="#bd8099" stroke-width="2" stroke-linecap="round" opacity=".6">
+    <path d="M870 52 C945 83 870 127 945 158 M945 52 C870 83 945 127 870 158"/>
+    <path d="M883 59 H932 M898 76 H917 M890 94 H925 M883 112 H932 M898 130 H917 M888 148 H927"/>
+  </g>
+  <text x="500" y="99" text-anchor="middle" fill="#75445c" font-family="Georgia, 'Times New Roman', serif" font-size="48">hi, I'm Avishi</text>
+  <text x="500" y="139" text-anchor="middle" fill="#93687a" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">BIOENGINEERING · BIOLOGY · CURIOSITY</text>
+</svg>
