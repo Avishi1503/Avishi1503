@@ -8,11 +8,5 @@ I'm a **bioengineer studying computational and structural biology**. I like expl
 
 🧠 Currently building **neuroscience-related projects**.
 
-🧬 Interested in how computational methods can help us understand biological systems, from molecular structures to the brain.
-
-### A little of what I'm working on
-
-[**Semester 1 projects →**](https://github.com/Avishi1503/Projects_Sem1)  
-Coursework, Python experiments, and bioinformatics algorithm comparisons.
-
+🧬 Interested in how computational methods can help us understand biological systems, learning little by little
 <p align="center">🌸 &nbsp; learning as I go &nbsp; 🌸</p>
